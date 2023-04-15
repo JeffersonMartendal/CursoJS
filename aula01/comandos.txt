@@ -1,0 +1,14 @@
+Com a página web aberta do Google no seu navegador, digitando os comandos no console sendo possível fazer alterações.
+
+Utilizando o comando abaixo deixa o fundo da página preta.
+document.body.style.background = 'black'
+
+Utilizando o comando abaixo é possível deixar o logo em cinza (tem que pegar o ID do logo através da ferramenta de inspeção de página, Ctrl + Shift + C).
+document.querySelector('img.lnXdpd').style.filter = 'grayscale(100%)'
+
+Utilizando o comando abaixo é possível sumir com a logo do Google.
+document.querySelector('img.lnXdpd').style.visibility = 'hidden'
+
+Utilizando o comando abaixo é possível alterar o título da reportagem do G1.
+document.querySelector('span.bstn-hl-title').innerText = 'Curso em JavaScript é o melhor do YouTube'
+
