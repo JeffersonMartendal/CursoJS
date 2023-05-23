@@ -99,7 +99,67 @@ Para permitir que o usuário digite seu nome:
 
 ---
 
-### Aula 05
+### Aula 05 - Variáveis e Tipos Primitivos
+
+Perguntas iniciais:
+1. Já sabe organizar suas pastas com VSCode?
+2. O Node.js está instalado no seu computador?
+3. Sabe diferenciar HTML5, CSS3 e JS dentro de um código?
+4. Sabe disparar alertas, confirmações e perguntas?
+
+Aprendemos sobre comentar em códigos e como criar as variáveis e seus funcionamentos.
+
+Para comentar um código usamos // ou /* */ o primeiro para linha de código e o segundo para um bloco de código.
+
+Para identificadores seguem os passos abaixo para nomear as variáveis:
+
+* Podem começar com **letra**, **$** ou **_**
+* Não podem começar com **números**
+* É possível usar **letras** ou **números**
+* É possível usar **acentos** e **símbolos**
+* Não podem conter **espaços**
+* Não podem ser palavras reservadas tipo function, alert e outras que o JS usa como comandos.
+
+Dicas!
+
+* Maiúsculas e minúsculas fazem diferença:
+
+
+var a = 10<br>
+var A = 20<br>
+a = 10<br>
+A = 20<br>
+
+* Tente escolher nomes coerentes para as variáveis
+
+Como fazer
+
+nome = nome de alguma pessoa
+idade = idade da pessoa
+
+Como não fazer
+
+idade = ano de nascimento
+nome = sobrenome
+
+* Evite se tornar um **programador alfabeto** ou um **programador contador**
+
+*tipos de dados
+
+number
+5 18 -12
+0.5 -15.9 3.14 8.0
+
+string
+"Google"
+'JavaScrip'
+`Maria`
+
+boolean
+true
+false
+
+temos outros tipos de dados que iremos falar mais para frente, infinity, NaN, null, undefined, object, array, function.
 
 ---
 
