@@ -163,6 +163,28 @@ temos outros tipos de dados que iremos falar mais para frente, infinity, NaN, nu
 
 ---
 
+### Aula 06 - Tratamento de dados
+
+Perguntas iniciais:
+1. O que é uma variável?
+2. Como declarar uma variável numérica Inteira ou Real usando JS?
+3. Quais são os tipos primitivos do JS?
+4. O que significa colocar o valor null dentro de uma variável?
+
+Temos alguns tipos de dados na imagem abaixo:
+
+<img src="aula06/DataTypes.png" width="20%">
+
+Nesta aula, aprendemos sobre diferentes conceitos e técnicas importantes. Inicialmente, exploramos como armazenar a resposta de uma variável em uma pergunta feita pelo usuário através do navegador. Além disso, foi ensinado o uso da concatenação para combinar strings e números, bem como a realização de cálculos através da soma de números. Também abordamos as formas de conversão de números para inteiros e números reais, assim como a conversão de números em strings.
+
+Um dos tópicos principais da aula foi o uso de template strings, que facilitam a digitação e compreensão do código. Com eles, podemos inserir variáveis diretamente nas strings de forma mais conveniente.
+
+Exploramos também algumas operações com strings, como a contagem de letras e a conversão entre maiúsculas e minúsculas. Ademais, aprendemos a escrever pequenas frases de código no documento HTML e até mesmo como adicionar um valor monetário a uma variável, utilizando o símbolo "R$" e substituindo o ponto decimal por vírgula, se necessário.
+
+
+
+---
+
 #### Siglas:
 
 <abbr title="Linguagem de Marcação de HiperTexto - HyperText Markup Language">HTML<abbr>
