@@ -144,22 +144,22 @@ nome = sobrenome
 
 * Evite se tornar um **programador alfabeto** ou um **programador contador**
 
-*tipos de dados
+* tipos de dados
 
-number
-5 18 -12
+number</br>
+5 18 -12</br>
 0.5 -15.9 3.14 8.0
 
-string
-"Google"
-'JavaScrip'
+string</br>
+"Google"</br>
+'JavaScrip'</br>
 `Maria`
 
-boolean
-true
+boolean</br>
+true</br>
 false
 
-temos outros tipos de dados que iremos falar mais para frente, infinity, NaN, null, undefined, object, array, function.
+Temos outros tipos de dados que iremos falar mais para frente, infinity, NaN, null, undefined, object, array, function.
 
 ---
 
@@ -182,6 +182,101 @@ Um dos tópicos principais da aula foi o uso de template strings, que facilitam 
 Exploramos também algumas operações com strings, como a contagem de letras e a conversão entre maiúsculas e minúsculas. Ademais, aprendemos a escrever pequenas frases de código no documento HTML e até mesmo como adicionar um valor monetário a uma variável, utilizando o símbolo "R$" e substituindo o ponto decimal por vírgula, se necessário.
 
 
+---
+
+### Aula 07 - Operadores (Parte 1)
+
+Perguntas iniciais:
+1. Como é possível guardar o valor digitado em um prompt() dentro de uma variável?
+2. Como fazer com que um número digitado em um prompt() possa ser usado em cálculos?
+3. Como transformar um texto todo para letras MAIÚSCULAS?
+4. Como mostrar um número formatado como um valor monetário?
+
+Nesta aula o professor ensinou a usar os operadores aritméticos e de atribuição.
+
+<img src="aula07/operadores.png" width="20%">
+
+Segue imagem com os operadores aritméticos usados.
+
+<img src="aula07/aritmeticos.png" width="20%">
+
+Segue algum exemplos usando os operadores aritméticos.
+
+<img src="aula07/ExemplosAritmeticos.png" width="20%">
+
+Na imagem abaixo é mostrado a precedência de cálculo de cima para baixo, onde () é realizado primeiro, ** em segundo e assim por diante.
+
+<img src="aula07/precedencia.png" width="20%">
+
+Nesta imagem temos como guardar um valor em uma variável e usar esse valor para realizar outros cálculos.
+
+<img src="aula07/Atribuicaosimples.png" width="20%">
+
+Na imagem abaixo temos as auto-atribuições, elas servem muito para atualizar um valor em algum tipos de loops, mas não é apenas essa a utilidade dela.
+
+<img src="aula07/Autoatribuicoes.png" width="20%">
+
+Podemos simplificar as auto-atribuições usando a fórmula mais a direita da imagem.
+
+<img src="aula07/Simplificando.png" width="20%">
+
+Uma maneira de simplicar ainda mais as auto-atribuições e é usando a fórmula mais a direita da imagem.
+
+<img src="aula07/Incremento.png" width="20%">
+
+---
+
+### Aula 08 - Operadores (Parte 2)
+
+Perguntas iniciais:
+1. Para que serve o operador **%** em JS? Seria para calcular porcentagem?
+2. 6 + 4 / 2 é igual a 5 ou 8?
+3. Se uma variável n está valendo 10 e executamos um n += 5, qual será seu novo valor?
+4. Para que servem os operadores ++ ou --
+
+Nesta aula o professor ensinou a usar os operadores relacionais, lógicos e ternário.
+
+<img src="aula08/operadores.png" width="20%">
+
+Estes são os operadores relacionais.
+
+<img src="aula08/Relacionais.png" width="20%">
+
+Podemos usar os sinais de identidade para comparar dados e saber se são iguais ou não.
+
+<img src="aula08/Identidade.png" width="20%">
+
+Exemplos de operadores lógicos.
+
+<img src="aula08/Logicos.png" width="20%">
+
+Negação
+
+<img src="aula08/Negacao.png" width="20%">
+
+Conjunção
+
+<img src="aula08/Conjuncao.png" width="20%">
+
+Disjunção
+
+<img src="aula08/Disjuncao.png" width="20%">
+
+Usando operadores lógicos e relacionais.
+
+<img src="aula08/UsandoLogicosERelacionais.png" width="50%">
+
+Esta imagem abaixo tem a ordem de precedência realizada pela máquina, onde ela realiza primeiro os operadores aritméticos onde dentro dos operadores Aritméticos há sim precedência também, depois ela realiza os operadores Relacionais que não tem precedência interna e por último os operadores Lógicos que tem sim sua precedência interna como o de negação, conjunção(e) e disjunção(ou).
+
+<img src="aula08/Precedencia.png" width="20%">
+
+Esta é uma imagem de como os operadores ternários funcionariam.
+
+<img src="aula08/Ternario.png" width="50%">
+
+Abaixo imagem com exemplo.
+
+<img src="aula08/Ternarioexemplo.png" width="50%">
 
 ---
 
