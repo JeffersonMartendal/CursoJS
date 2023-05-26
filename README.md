@@ -313,6 +313,20 @@ Existe maneiras de selecionar os objetos dentro de um documento HTML abaixo algu
 
 ---
 
+### Aula 10 - Eventos DOM
+
+Perguntas iniciais:
+1. O que significa a sigla DOM?
+2. Sabe montar a árvore DOM de um website simples?
+3. O que são os elementos Parent e os elementos Child em uma árvore DOM?
+4. Quais são os cinco principais métodos de selecionar elementos DOM dentro do JS?
+
+Nesta aula aprendemos alguns eventos em DOM, na imagem abaixo temos alguns dos eventos porém há muitos tipos de eventos.
+
+<img src="aula10/EventosDOM.png" width="20%">
+
+---
+
 #### Siglas:
 
 <abbr title="Linguagem de Marcação de HiperTexto - HyperText Markup Language">HTML<abbr>
