@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Primeiros passos com DOM</title>
+    <style>
+        body {
+            background-color: rgb(68, 128, 199);
+            color: white;
+            font: normal 18pt Arial;
+        }
+    </style>
+</head>
+<body>
+    <h1>Iniciando estudos com DOM</h1>
+    <p>Aqui vai o resultado</p>
+    <p>Aprendendo a usar o <strong>DOM</strong> em JavaScript.</p>
+    <div id="msg">Clique em mim</div>
+    <div name="test">Isso é um teste</div>
+    <div class="classe">Isso faz parte de uma classe</div>
+    <div id="query">QuerySelector</div>
+    <script>
+        //criando uma variável corpo para referenciar ao body do html
+        var corpo = window.document.body
+
+        //usando a variável criada anteriormente para mudar o estilo da cor de fundo para preto
+        corpo.style.background = 'black'
+
+        // criando uma variável p1 para receber os dados do elemento p que seria os paragrafos, onde podemos selecionar qual paragrafo atráves dos colchetes e o numero do paragrafo onde 0 é o primeiro e 1 o segundo e assim por diante.
+        var p1 = window.document.getElementsByTagName('p')[1]
+
+        //usando a variável p1 para mudar o estilo de cor para vermelho
+        p1.style.color = 'red'
+
+        //escrevendo no documento html o texto dentro da variável p1
+        window.document.write('Está escrito assim: ' + p1.innerText, "<br/>")
+
+        //escrevendo no documento html o texto dentro da variável p1 porém com as formatações HTML, como a formatação strong do p1[1]
+        window.document.write('Está escrito assim: ' + p1.innerHTML, "<br/>")
+
+        //escrevendo no documento html o charset da página
+        window.document.write(window.document.charset, "<br/>")
+
+        //escrevendo no documento html qual navegador
+        window.document.write(window.navigator, "<br/>")
+
+        //escrevendo no documento html a URL da página.
+        window.document.write(window.document.URL, "<br/>")
+
+        //alerta que escreve oque está em p1 porém ele puxa as informações HTML tipo a tag strong.
+        //window.alert(p1.innerHTML)
+
+        //criando uma variável para receber o ID criado na div html
+        var d = window.document.getElementById('msg')
+
+        //colocando estilo na cor de fundo para verde da variável d criada.
+        d.style.background = 'green'
+
+        //mudando oque está escrito na váriavel d
+        //d.innerText = 'Estou aguardando...'
+
+        //escrevendo o comando inteiro para mudar o texto de algum objeto
+        window.document.getElementById('msg').innerText = 'Olá!'
+
+        //criando uma variável para receber os dados de name e selecioando o primeiro [0] devido a estar no plural getElementsByName e editando seu texto
+        var t = window.document.getElementsByName('test')[0].innerText = 'funcionou'
+
+        //criando uma variável para receber os dados da classe e selecioando o primeiro [0] devido a estar no plural getElementsByName e editando seu texto
+        var c = window.document.getElementsByClassName('classe')[0].innerText = 'deu certo'
+
+        //criando uma variável para receber os dados da div com id query usando querySelector
+        var q = window.document.querySelector('div#query')
+        
+        //alterando o estilo de cor da variável q.
+        q.style.color = 'yellow'
+    </script>
+</body>
+</html>

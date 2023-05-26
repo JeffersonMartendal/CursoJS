@@ -278,6 +278,39 @@ Abaixo imagem com exemplo.
 
 <img src="aula08/Ternarioexemplo.png" width="50%">
 
+
+---
+
+## Módulo C: Entendendo o DOM
+
+---
+
+### Aula 09 - Introdução ao DOM
+
+Perguntas iniciais:
+1. Qual é a diferença entre usar =, == e === em códigos escritos em JS?
+2. Em uma mesma expressão, temos os operadores || e &&. Quem eu resolvo primeiro?
+3. Sabe usar o operador ternário para colocar um entre dois valores em uma variável?
+
+O que é o DOM?
+
+O Document Object Model (DOM) é uma interface de programação para os documentos HTML e XML. Representa a página de forma que os programas possam alterar a estrutura do documento, alterar o estilo e conteúdo. O DOM representa o documento com nós e objetos, dessa forma, as linguagens de programação podem se conectar à página.
+
+Abaixo um exemplo de Árvore DOM.
+
+<img src="aula09/ArvoreDOM.png" width="20%">
+
+Existe maneiras de selecionar os objetos dentro de um documento HTML abaixo algumas formas que iremos aprender a selecionar os objetos.
+
+
+<p float="left">
+<img src="aula09/SelecionandoMarca.png" width="275px" height="500px">
+<img src="aula09/SelecionandoID.png" width="275px" height="500px">
+<img src="aula09/SelecionandoNome.png" width="275px" height="500px">
+<img src="aula09/SelecionandoClasse.png" width="275px" height="500px">
+<img src="aula09/SelecionandoSeletor.png" width="275px" height="500px">
+</p>
+
 ---
 
 #### Siglas:
