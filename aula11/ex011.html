@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Localidade</title>
+</head>
+<body>
+    <h1>De onde você é?</h1>
+    De onde você é: <input type="string" name="txtloc" id="txtloc">
+    <input type="button" value="Verificar" onclick="local()">
+    <div id="res">
+        
+    </div>
+    <script>
+        function local() {
+        var txtl = window.document.querySelector('input#txtloc')
+        var res = window.document.querySelector('div#res')
+        var loc = String(txtl.value)
+        if (loc == 'Brasil') {
+            res.innerHTML = `<p>Você é de <strong>${loc}</strong></p>`
+            res.innerHTML += `<p>Você é Brasileiro!</p>`
+        } else {
+            res.innerHTML = `<p>Você é de <strong>${loc}</strong></p>`
+            res.innerHTML += `<p>Você é estrangeiro!</p>`
+        }
+        }
+    </script>
+</body>
+</html>

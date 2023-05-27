@@ -327,6 +327,27 @@ Nesta aula aprendemos alguns eventos em DOM, na imagem abaixo temos alguns dos e
 
 ---
 
+## Módulo D: Condições em JavaScript
+
+---
+
+### Aula 11 – Condições (Parte 1)
+
+Perguntas iniciais:
+1. Consegue citar três eventos que podem acontecer com elementos DOM de um site?
+2. O que é uma função? Como criar funções em JS?
+3. Sabe como pegar os valores de caixas de texto e fazer cálculos com eles?
+
+Nesta aula começamos a aprender sobre condições e abaixo temos uma foto exemplificando como seria uma condição
+
+<img src="aula11/Condicoes.png" width="20%">
+
+Tipos de condição
+
+<img src="aula11/TiposdeCondicao.png" width="20%">
+
+---
+
 #### Siglas:
 
 <abbr title="Linguagem de Marcação de HiperTexto - HyperText Markup Language">HTML<abbr>
