@@ -194,11 +194,11 @@ Perguntas iniciais:
 
 Nesta aula o professor ensinou a usar os operadores aritméticos e de atribuição.
 
-<img src="aula07/operadores.png" width="20%">
+<img src="aula07/Operadores.png" width="20%">
 
 Segue imagem com os operadores aritméticos usados.
 
-<img src="aula07/aritmeticos.png" width="20%">
+<img src="aula07/Aritmeticos.png" width="20%">
 
 Segue algum exemplos usando os operadores aritméticos.
 
@@ -206,7 +206,7 @@ Segue algum exemplos usando os operadores aritméticos.
 
 Na imagem abaixo é mostrado a precedência de cálculo de cima para baixo, onde () é realizado primeiro, ** em segundo e assim por diante.
 
-<img src="aula07/precedencia.png" width="20%">
+<img src="aula07/Precedencia.png" width="20%">
 
 Nesta imagem temos como guardar um valor em uma variável e usar esse valor para realizar outros cálculos.
 
@@ -236,7 +236,7 @@ Perguntas iniciais:
 
 Nesta aula o professor ensinou a usar os operadores relacionais, lógicos e ternário.
 
-<img src="aula08/operadores.png" width="20%">
+<img src="aula08/Operadores.png" width="20%">
 
 Estes são os operadores relacionais.
 
@@ -344,11 +344,39 @@ Nesta aula começamos a aprender sobre condições e abaixo temos uma foto exemp
 
 Tipos de condição
 
-<img src="aula11/TiposdeCondicao.png" width="20%">
+<img src="aula11/TiposdeCondicao.png" width="50%">
+
+---
+
+### Aula 12 – Condições (Parte 2)
+
+Perguntas iniciais:
+1. Já sabe como usar a extensão Node Exec no VSCode?
+2. Sabe criar uma condição em seu programa JS?
+3. Consegue diferenciar condições simples e as condições compostas?
+
+Aprendemos na aula anterior condições simples e compostas.
+
+<img src="aula12/CondicoesComposta.png" width="20%">
+
+Nesta aula iremos aprender sobre Condições Aninhadas. Que tem uma estrutura parecida com a imagem abaixo.
+
+<p float="left">
+<img src="aula12/CondicoesAninhadas.png" width="275px" height="500px">
+<img src="aula12/CondicoesAninhadas02.png" width="275px" height="500px">
+</p>
+
+Também temos a Condição Múltipla como imagens abaixo.
+<p float="left">
+<img src="aula12/CondicaoMultipla.png" width="275px" height="500px">
+<img src="aula12/CondicaoMultipla02.png" width="275px" height="500px">
+</p>
 
 ---
 
 #### Siglas:
+
+*[HTML]: Linguagem de Marcação de HiperTexto - HyperText Markup Language
 
 <abbr title="Linguagem de Marcação de HiperTexto - HyperText Markup Language">HTML<abbr>
 
