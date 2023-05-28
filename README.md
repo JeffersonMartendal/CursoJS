@@ -376,9 +376,7 @@ Também temos a Condição Múltipla como imagens abaixo.
 
 #### Siglas:
 
-*[HTML]: Linguagem de Marcação de HiperTexto - HyperText Markup Language
-
-<abbr title="Linguagem de Marcação de HiperTexto - HyperText Markup Language">HTML<abbr>
+<p><abbr title="Linguagem de Marcação de HiperTexto - HyperText Markup Language">HTML<abbr></p>
 
 <abbr title="Folha de Estilo em Cascatas - Cascading Style Sheets">CSS</abbr>
 
