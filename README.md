@@ -376,17 +376,17 @@ Também temos a Condição Múltipla como imagens abaixo.
 
 #### Siglas:
 
-<p><abbr title="Linguagem de Marcação de HiperTexto - HyperText Markup Language">HTML<abbr></p>
+HTML: Linguagem de Marcação de HiperTexto - HyperText Markup Language
 
-<abbr title="Folha de Estilo em Cascatas - Cascading Style Sheets">CSS</abbr>
+CSS: Folha de Estilo em Cascatas - Cascading Style Sheets
 
-<abbr title="Instituto de Tecnologia de Massachusetts - Massachusetts Institute of Technology">MIT</abbr>
+MIT: Instituto de Tecnologia de Massachusetts - Massachusetts Institute of Technology
 
-<abbr title="Protocolo de Transferência de Hipertexto - Hypertext Transfer Protocol">HTTP</abbr>
+HTTP: Protocolo de Transferência de Hipertexto - Hypertext Transfer Protocol
 
-<abbr title="Protocolo de Controle de Transmissão - Transmission Control Protocol / Protocolo de Internet - Internet Protocol">TCP/IP</abbr>
+TCP/IP: Protocolo de Controle de Transmissão - Transmission Control Protocol / Protocolo de Internet - Internet Protocol
 
-<abbr title="Rede Mundial de Computadores - World Wide Web">WWW</abbr>
+WWW: Rede Mundial de Computadores - World Wide Web
 
-<abbr title="Associação Européia dos Fabricantes de Computadores - European Computer Manufacturers Association">ECMA</abbr>
+ECMA: Associação Européia dos Fabricantes de Computadores - European Computer Manufacturers Association
 
