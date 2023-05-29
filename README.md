@@ -374,6 +374,14 @@ Também temos a Condição Múltipla como imagens abaixo.
 
 ---
 
+### Aula 12 EX - Exercícios JavaScript(Parte 1) - Curso JavaScript
+
+Nesta aula criamos a pasta aula12ex para criar o modelo dos arquivos HTML, CSS e JS para poder praticar os exercícios criados pelo professor nas próximas aulas de exercícios.
+
+<img src="aula12ex/Modelo.png" width="20%">
+
+---
+
 #### Siglas:
 
 HTML: Linguagem de Marcação de HiperTexto - HyperText Markup Language
