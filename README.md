@@ -374,13 +374,35 @@ Também temos a Condição Múltipla como imagens abaixo.
 
 ---
 
-### Aula 12 EX - Exercícios JavaScript(Parte 1) - Curso JavaScript
+### Aula 12 - Exercícios JavaScript(Parte 1, 2 e 3 + exercícios) - Curso JavaScript
 
 Nesta aula criamos a pasta aula12ex para criar o modelo dos arquivos HTML, CSS e JS para poder praticar os exercícios criados pelo professor nas próximas aulas de exercícios.
 
 <img src="aula12ex/Modelo.png" width="20%">
 
 ---
+
+## Módulo E: Repetições em JavaScript
+
+---
+
+### Aula 13 – Repetições (Parte 1)
+
+Perguntas iniciais:
+1. Sabe mudar a cor de fundo de um site **dinamicamente**, usando JS?
+2. Consegue inserir uma imagem dentro do seu site sem ter a tar **img** previamente criada?
+3. Já treinou bastante o uso de **condições simples**, **compostas**, **aninhadas** e **múltiplas**?
+
+Nesta aula aprendemos sobre testes lógicos de repetição no inicio e no final como as imagens abaixo
+
+<img src="aula13/TesteLogicoInicio.png" width="275px" height="500px">
+<img src="aula13/TesteLogicoFinal.png" width="275px" height="500px">
+
+
+
+---
+
+
 
 #### Siglas:
 
