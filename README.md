@@ -374,7 +374,7 @@ Também temos a Condição Múltipla como imagens abaixo.
 
 ---
 
-### Aula 12 - Exercícios JavaScript(Parte 1, 2 e 3 + exercícios) - Curso JavaScript
+### Exercícios JavaScript(Parte 1, 2 e 3) - Curso JavaScript
 
 Nesta aula criamos a pasta aula12ex para criar o modelo dos arquivos HTML, CSS e JS para poder praticar os exercícios criados pelo professor nas próximas aulas de exercícios.
 
@@ -397,6 +397,29 @@ Nesta aula aprendemos sobre testes lógicos de repetição no inicio e no final 
 
 <img src="aula13/TesteLogicoInicio.png" width="275px" height="500px">
 <img src="aula13/TesteLogicoFinal.png" width="275px" height="500px">
+
+---
+
+### Aula 14 – Repetições (Parte 2)
+
+Perguntas iniciais:
+1. O que faço se quiser fazer uma determinada atividade acontecer **várias vezes**?
+2. Sabe diferenciar as estruturas de **condição** e as estruturas de **repetição**?
+3. Consegue dizer a diferença entre as estruturas **while** e a **do..while**?
+
+Aprendemos a usar a estrutura de repetição for e a usar o depurador do VSCode.
+
+<img src="aula14/EstruturaFor.png" width="20%">
+
+---
+
+### Exercícios JavaScript(Parte 4, 5 e 6) - Curso JavaScript
+
+Perguntas iniciais:
+1. Já aprendeu a usar direito a extensão **Watch in Chrome** no **VSCode**?
+2. Já aprendeu a usar o **Modo de Depuração** do VSCode?
+3. Já fez todos os testes com as estruturas **while**, **do...while** e **for**?
+4. Quer aprender um pouco mais como manipular dados em **controles HTML** com JS?
 
 
 
