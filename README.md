@@ -421,10 +421,31 @@ Perguntas iniciais:
 3. Já fez todos os testes com as estruturas **while**, **do...while** e **for**?
 4. Quer aprender um pouco mais como manipular dados em **controles HTML** com JS?
 
-
+Nesta parte do curso aprendemos a utilizar o for na prática e alguns comandos novos como adicionar elementos em um select, verificar campos vazios para informar erros e utilizar for e while na prática usando a lógica para resolução dos exercícios.
 
 ---
 
+## Módulo F: Avançando os estudos em JavaScript
+
+---
+
+### Aula 15 – Variáveis Compostas
+
+Perguntas iniciais:
+1. Já treinou bastante o uso das estruturas de repetição **while**, **do..while** e **for**?
+2. Aprendeu como manipular objetos de formulários **HTML** usando JS?
+3. Seria bom tornar seus códigos menores e mais simplificados?
+4. Você é daquele tipo de pessoa que ouviu alguém dizer que **"usar array é difícil"**?
+
+* Variáveis simples só conseguem armazenar um valor por vez.
+
+* Variáveis compostas devem ser capazes de armazenar vários valores em uma mesma estrutura.
+
+**Um array ou um vetor ou uma variável composta é uma variável que tem vários elementos, cada elemento é composto por seu valor e por uma chave de identificação.**
+
+<img src="aula15/VariavelComp.png" width="50%">
+
+---
 
 
 #### Siglas:
