@@ -447,6 +447,18 @@ Perguntas iniciais:
 
 ---
 
+### Aula 16 – Funções
+
+Perguntas iniciais:
+1. Conseguiu simplificar seus códigos com o uso de Array?
+2. Sabe colocar um array em ordem usando apenas uma chamada de função?
+3. Lembra como disparar uma função simples quando apertamos um botão?
+4. Quer aprender mais sobre funções?
+
+Nesta aula o professor apresentou formas de utilizar funções e criamos 5 arquivos exemplos utilizando funções.
+
+---
+
 
 #### Siglas:
 
