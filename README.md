@@ -459,6 +459,18 @@ Nesta aula o professor apresentou formas de utilizar funções e criamos 5 arqui
 
 ---
 
+### Exercícios JavaScript(Parte 7 e 8) - Curso JavaScript
+
+Perguntas iniciais:
+1. Já aprendeu a usar direito a extensão **Watch in Chrome** no **VSCode?**
+2. Já aprendeu a usar o **Modo de Depuração** do VSCode?
+3. Já treinou bastante com os componentes **array** e **function**?
+
+Nesta parte do curso iremos fazer um exercício com array e funções com parâmetros.
+
+
+---
+
 
 #### Siglas:
 
