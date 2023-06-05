@@ -468,6 +468,33 @@ Perguntas iniciais:
 
 Nesta parte do curso iremos fazer um exercício com array e funções com parâmetros.
 
+---
+
+### Aula 17 – Próximos Passos
+
+Perguntas iniciais:
+1. Você assistiu o curso completo?
+2. Você fez todos os exercícios propostos?
+3. Você já tentou fazer os exercícios sem a ajuda do vídeo?
+4. Você já criou uma situação qualquer e tentou resolver por conta própria?
+
+<img src="aula17/NossaRota.png" width="20%">
+
+Quais são os próximos passos daqui pra frente?
+
+* Fazer o curso de HTML5
+* Functions(Arrow function, Callback, anônimas, IIFE, JavaScript Funcional)
+* Objetos
+* Modularização
+* RegEx (expressões regulares)
+* JSON
+* AJAX (facebook, youtube e google usam essa tecnologia)
+* NodeJS (bibliotecas e frameworks, jquery, vue js, angular)
+
+Comparação de array e objeto, onde os objetos podem ser mais completos que array.
+
+<img src="aula17/Array.png" width="300px" height="200px">
+<img src="aula17/Objeto.png" width="600px" height="200px">
 
 ---
 
